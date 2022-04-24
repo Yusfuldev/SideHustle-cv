@@ -1,0 +1,13 @@
+.skill {
+  background-color: #191947;
+  text-align: center;
+  padding: 1rem;
+  color: aliceblue;
+  border-bottom-left-radius: 3rem;
+  border-top-right-radius: 3rem;
+}
+ul {
+  padding: 1em;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}

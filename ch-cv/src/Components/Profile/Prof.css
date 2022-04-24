@@ -1,0 +1,14 @@
+div {
+  background-color: #080822;
+  margin: 1rem;
+}
+.profile {
+  color: #9fb2c2;
+  background-color: #1d1752;
+  background-position: co;
+  text-align: justify;
+  padding: 1rem;
+  margin: 1rem;
+  border-bottom-right-radius: 3rem;
+  border-top-left-radius: 3rem;
+}
